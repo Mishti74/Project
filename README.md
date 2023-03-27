@@ -1,1 +1,1 @@
-# This project is created for demo purpose.
+# This project is created for demo purpose
